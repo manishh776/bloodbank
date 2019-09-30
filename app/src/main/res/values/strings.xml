@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+    <string name="channel_name">borrow_channel</string>
+    <string name="channel_description">borrow request and reply</string>
+</resources>
